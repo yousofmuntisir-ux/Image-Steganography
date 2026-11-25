@@ -62,3 +62,14 @@ Muntisir Yousof Zakaria Mohamed
 
 ## Academic Project
 Cryptography Course Project
+
+## Screenshots
+
+### 1. Home Page
+![Home Page](cyberhide-home.png)
+
+### 2. Encryption
+![Encryption](cyberhide-encryption.png)
+
+### 3. Decryption
+![Decryption](cyberhide-decryption.png)
