@@ -1,3 +1,10 @@
+## 🚀 Live Demo
+
+Try CyberHide Online:
+
+[Open CyberHide Application](https://image-steganography-6jpu88w5ud3jwwnv3d2dxg.streamlit.app/)
+
+**Status:** Successfully Deployed
 # 🔐 CyberHide – Secure Image Steganography
 
 ## Project Overview
@@ -55,3 +62,14 @@ Muntisir Yousof Zakaria Mohamed
 
 ## Academic Project
 Cryptography Course Project
+
+## Screenshots
+
+### 1. Home Page
+![Home Page](cyberhide-home.png)
+
+### 2. Encryption
+![Encryption](cyberhide-encryption.png)
+
+### 3. Decryption
+![Decryption](cyberhide-decryption.png)
